@@ -1,0 +1,1 @@
+# sails-postgres-schema-test
