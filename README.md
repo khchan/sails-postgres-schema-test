@@ -1,1 +1,3 @@
-# sails-postgres-schema-test
+# postgres-test
+
+a [Sails](http://sailsjs.org) application
